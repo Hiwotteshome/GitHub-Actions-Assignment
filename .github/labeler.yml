@@ -1,0 +1,11 @@
+# Rules for the labeler:
+# Label Name: List of file paths to check
+documentation:
+- 'docs/**'     
+- '*.md'        
+
+workflow:
+- '.github/workflows/*' 
+
+feature:
+- 'src/**'      
