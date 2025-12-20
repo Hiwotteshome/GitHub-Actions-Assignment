@@ -1,1 +1,1 @@
-# GitHub-Actions-Assignment
+Updating logs for CI/CD project
